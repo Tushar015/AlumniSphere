@@ -13,7 +13,6 @@ AlumniSphere is a comprehensive alumni networking platform. As undergraduate dev
 - Encourage student-led innovation through structured handovers and open contribution
 
 ## 🔒 Security & Access
-- OAuth login restricted to IIITN-verified email addresses
 - Secure session-based authentication
 - Real-time WebSocket-based messaging
 - Role-based access control
